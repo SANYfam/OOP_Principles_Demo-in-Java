@@ -1,0 +1,22 @@
+Rectangle width: 5.0 and length: 7.0
+Resulting area: 35.0
+Resulting perimeter: 24.0
+
+Circle radius: 5.0
+Resulting Area: 78.53981633974483
+Resulting Perimeter: 31.41592653589793
+
+Triangle sides lengths: 5.0, 3.0, 4.0
+Resulting Area: 6.0
+Resulting Perimeter: 12.0
+
+
+Square sides length: 12.0
+Resulting Area: 144.0
+Resulting Perimeter: 48.0
+
+
+Ellipse's Semi-Major and Semi-Minor axises : 70.0, 60.1
+Resulting Area: 13216.68029365226
+Resulting Perimeter: 409.9028454600349
+
